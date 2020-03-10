@@ -1,0 +1,87 @@
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 963815509.
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3972a855]
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]==>  Preparing: select * from user limit 2
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]==> Parameters:
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]<==      Total: 2
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3972a855]
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3972a855]
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 963815509 to pool.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 717176949.
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2abf4075]
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]==>  Preparing: select * from user limit 2
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]==> Parameters:
+[DEBUG][20-01-22][com.com.feige.dao.UserMapper.limitUser]<==      Total: 2
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2abf4075]
+[DEBUG][20-01-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2abf4075]
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 717176949 to pool.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[INFO][20-01-22][com.com.feige.mybatisTest.MybatisTest]info：进入limitUser方法
+[DEBUG][20-01-22][com.com.feige.mybatisTest.MybatisTest]debug：进入limitUser方法
+[ERROR][20-01-22][com.com.feige.mybatisTest.MybatisTest]error: 进入limitUser方法
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-01-22][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
